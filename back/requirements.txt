@@ -1,0 +1,5 @@
+transformers
+flask
+flask-cors
+tensorflow
+tf-keras
